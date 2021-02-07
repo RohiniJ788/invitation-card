@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background: content-box radial-gradient(#29B6F6, #EC407A);
+}
+
+h1 {
+    color: yellow;
+    text-shadow: 2px 2px 5px red;
+}
+
+h2 {
+    text-shadow: 2px 2px 5px black;
+    color: white;
+}
+
+p {
+    text-shadow: 2px 2px 5px yellow;
+    color:
+        font-size:70px;
+}
